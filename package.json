@@ -4,7 +4,7 @@
   "description": "",
   "main": "apikeyapp.js",
   "scripts": {
-    "test": "echo \"No tests to run\""
+    "start": "node apikeyapp.js"
   },
   "keywords": [],
   "author": "",
